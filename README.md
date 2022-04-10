@@ -4,18 +4,13 @@
 _______________________________
 
 ### CONTACT INFO
-<table>
-<thead>
-<tr>
-<th>abc</th>
-<th>def</th>
-</tr>
-</thead>
-</table>
 
 |Number|@email|![Linkedin](https://i.stack.imgur.com/gVE0j.png)|![GitHub](https://i.stack.imgur.com/tskMh.png)|
 |:---:|:---:|:---:|:---:|
 |[+380681377914]()	|[krip4yk.main@gmail.com](mailto:krip4yk.main@gmail.com)|[LinkedIn](https://www.linkedin.com/in/viacheslav-mykhalchenko-752042171/)|[GitHub](https://github.com/Krip4yk-main)|
+
+
+
 
 
 ### SUMMARY OF QUALIFICATIONS		
