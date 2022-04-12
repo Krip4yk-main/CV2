@@ -3,7 +3,7 @@
 
 _______________________________
 
-|Number|@email|![Linkedin](https://i.stack.imgur.com/gVE0j.png)|![GitHub](https://i.stack.imgur.com/tskMh.png)|
+|![Number](https://www.shareicon.net/data/16x16/2015/10/19/128649_phone_128x128.png)|![@email](https://www.shareicon.net/data/16x16/2015/04/28/30166_email_128x128.png)|![Linkedin](https://i.stack.imgur.com/gVE0j.png)|![GitHub](https://i.stack.imgur.com/tskMh.png)|
 |:---:|:---:|:---:|:---:|
 |[+380681377914]()	|[krip4yk.main@gmail.com](mailto:krip4yk.main@gmail.com)|[LinkedIn](https://www.linkedin.com/in/viacheslav-mykhalchenko-752042171/)|[GitHub](https://github.com/Krip4yk-main)|
 
