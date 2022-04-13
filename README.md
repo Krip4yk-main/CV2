@@ -99,9 +99,9 @@ _______________________________
       <ul>
         <li>IntelliJ IDEA</li>
         <li>MySQL</li>
-        <li>MS OFFICE</li>
+        <li>MS Office</li>
         <li>Windows</li>
-        <li>UBUNTU</li>
+        <li>Ubuntu</li>
       </ul>
   </td>
   </tr>
@@ -118,7 +118,7 @@ _______________________________
     <td><h2>Other</h2>
       <ul>
         <li>WebSocket</li>
-        <li>GAMES <br>(ALMOST ALL GENRES)</li>
+        <li>Games</li>
       </ul>
   </td>
   </tr>
