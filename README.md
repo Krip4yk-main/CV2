@@ -16,7 +16,7 @@ _______________________________
   <table>
   <tbody>
   <tr>
-    <td><h2>SUMMARY OF QUALIFICATIONS</h2><p>Software Enginner with more than one year of experience and strong background in 
+    <td><h2>SUMMARY OF QUALIFICATIONS</h2><p>Software Engineer with more than one year of experience and strong background in 
                                          <br>development from Lviv. Experience with Java, Kotlin, C++ programming languages, 
                                          <br>MySQL, REST API's and Java Spring framework. Good at learning new skills, ability 
                                          <br>to assume responsibility, work well under the pressure. Efficient and flexible.</p></td>
