@@ -99,7 +99,7 @@ _______________________________
       <ul>
         <li>IntelliJ IDEA</li>
         <li>MySQL</li>
-        <li>MS OFFICE 2016</li>
+        <li>MS OFFICE</li>
         <li>Windows</li>
         <li>UBUNTU</li>
       </ul>
