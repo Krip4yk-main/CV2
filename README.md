@@ -1,5 +1,5 @@
 # VIACHESLAV MYKHALCHENKO
-## Trainee/Junior Java/Kotlin Developer
+## Junior FullStack Developer, Trainee Java Developer
 
 _______________________________
 
