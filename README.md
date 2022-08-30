@@ -27,6 +27,7 @@ _______________________________
         <li><b>November 2018 – January 2019</b><br>IT Teacher • STEP IT Academy</li>
         <li><b>August 2021 – October 2021</b><br>JavaClub • SoftServe IT Academy</li>
         <li><b>December 2021 – April 2022</b><br>Trainee Kotlin Developer • TICKETS.UA LLC</li>
+        <li><b>May 2021 – current</b><br>Fullstack developer • ArtCodeVision</li>
       </ul></td>
   </tr>
   <tr>
@@ -47,15 +48,15 @@ _______________________________
     <td><h2>LANGUAGES</h2>
       <ul>
         <li>UKRAINIAN – NATIVE</li>
-        <li>RUSSIAN – SECOND NATIVE</li>
+        <li>RUSSIAN – A0 (unknown)</li>
         <li>ENGLISH – INTERMEDIATE</li>
       </ul></td>
   </tr>
   <tr>
     <td><h2>HOBBIES</h2>
       <ul>
-        <li>Reading Light novels (Ranobes)</li>
-        <li>Playing computer games (Action, MMORPG)	</li>
+        <li>Reading Light novels (Ranobes) and mangas</li>
+        <li>Playing computer games </li>
       </ul></td>
   </tr>
   </tbody>
@@ -72,12 +73,15 @@ _______________________________
   <tr>
     <td><h2>Programming Languages<br>(Technologies)</h2>
       <ul>
-        <li>Java</li>
-        <li>Kotlin</li>
-        <li>REST APIs</li>
-        <li>WEB UI kit</li>
+        <li>Node.js</li>
+        <li>JavaScript + TypeScript</li>
+        <li>MongoDB</li>
         <li>SQL</li>
-        <li>GIT</li>
+        <li>Kotlin</li>
+        <li>Java</li>
+        <li>REST APIs</li>
+        <li>WebSocket</li>
+        <li>Html/CSS</li>
         <li>JUnit</li>
       </ul>
   </td>
@@ -85,12 +89,10 @@ _______________________________
   <tr>
     <td><h2>FRAMEWORKS</h2>
       <ul>
+        <li>Angular</li>
+        <li>React</li>
         <li>Kotlin Coroutines</li>
-        <li>Postman API</li>
-        <li>Spring Framework</li>
         <li>Java Swing</li>
-        <li>Spring Boot</li>
-        <li>Spring Data</li>
       </ul>
   </td>
   </tr>
@@ -98,6 +100,9 @@ _______________________________
     <td><h2>Development Tools</h2>
       <ul>
         <li>IntelliJ IDEA</li>
+        <li>GitHub</li>
+        <li>SSH</li>
+        <li>Postman API</li>
         <li>MySQL</li>
         <li>MS Office</li>
         <li>Windows</li>
@@ -110,15 +115,8 @@ _______________________________
       <ul>
         <li>OOP</li>
         <li>Multithreading</li>
+        <li>Unit Testing</li>
         <li>Manual Testing</li>
-      </ul>
-  </td>
-  </tr>
-  <tr>
-    <td><h2>Other</h2>
-      <ul>
-        <li>WebSocket</li>
-        <li>Games</li>
       </ul>
   </td>
   </tr>
