@@ -17,17 +17,26 @@ _______________________________
   <tbody>
   <tr>
     <td><h2>SUMMARY OF QUALIFICATIONS</h2><p>Software Engineer with more than one year of experience and strong background in 
-                                         <br>development from Lviv. Experience with Java, Kotlin, C++ programming languages, 
-                                         <br>MySQL, REST API's and Java Spring framework. Good at learning new skills, ability 
+                                         <br>development from Lviv. Experience with NodeJS, AngularJS, Typescript, ExpressJS, ReactJS
+                                         <br>a bit of Java, Kotlin and C++ programming languages.
+                                         <br>Also with Axios, Async/Await, MySQL, MongoDB, API, Curl. Good at learning new skills, ability 
                                          <br>to assume responsibility, work well under the pressure. Efficient and flexible.</p></td>
   </tr>
   <tr>
     <td><h2>EXPERIENCE / IT RELATED EDUCATIONAL PRACTICE</h2>
       <ul>
-        <li><b>November 2018 – January 2019</b><br>IT Teacher • STEP IT Academy</li>
-        <li><b>August 2021 – October 2021</b><br>JavaClub • SoftServe IT Academy</li>
+        <li><b>May 2022 - January 2023</b><br>Junior Fullstack developer • ArtCodeVision</li>
         <li><b>December 2021 – April 2022</b><br>Trainee Kotlin Developer • TICKETS.UA LLC</li>
-        <li><b>May 2021 – current</b><br>Fullstack developer • ArtCodeVision</li>
+        <li><b>August 2021 – October 2021</b><br>JavaClub • SoftServe IT Academy</li>
+        <li><b>November 2018 – January 2019</b><br>IT Teacher • STEP IT Academy</li>
+      </ul></td>
+  </tr>
+  <tr>
+    <td><h2>Projects</h2>
+      <ul>
+        <li><b>September 2022 - January 2023</b>Internal project, using NodeJS+express+Angular+Typescript • ArtCodeVision</li>
+        <li><b>August 2022 - September 2023</b>Frontend at |![Sahara Cloud Project](https://saharacloud.io)| • ArtCodeVision</li>
+        <li><b>May 2022 - August 2022</b>FullStack at |![TYP project](https://trainyourpulse.com)| • ArtCodeVision</li>
       </ul></td>
   </tr>
   <tr>
@@ -48,7 +57,6 @@ _______________________________
     <td><h2>LANGUAGES</h2>
       <ul>
         <li>UKRAINIAN – NATIVE</li>
-        <li>RUSSIAN – A0 (unknown)</li>
         <li>ENGLISH – INTERMEDIATE</li>
       </ul></td>
   </tr>
@@ -56,6 +64,8 @@ _______________________________
     <td><h2>HOBBIES</h2>
       <ul>
         <li>Reading Light novels (Ranobes) and mangas</li>
+        <li>Playing tabletop games</li>
+        <li>Playing roleplay games like DnD</li>
         <li>Playing computer games </li>
       </ul></td>
   </tr>
@@ -74,15 +84,16 @@ _______________________________
     <td><h2>Programming Languages<br>(Technologies)</h2>
       <ul>
         <li>Node.js</li>
-        <li>JavaScript + TypeScript</li>
-        <li>MongoDB</li>
+        <li>JavaScript/TypeScript</li>
+        <li>Express.js</li>
         <li>SQL</li>
-        <li>Kotlin</li>
-        <li>Java</li>
-        <li>REST APIs</li>
+        <li>API</li>
+        <li>AWS (images)</li>
         <li>WebSocket</li>
         <li>Html/CSS</li>
-        <li>JUnit</li>
+        <li>MongoDB</li>
+        <li>Java</li>
+        <li>Kotlin</li>
       </ul>
   </td>
   </tr>
@@ -102,11 +113,12 @@ _______________________________
         <li>IntelliJ IDEA</li>
         <li>GitHub</li>
         <li>SSH</li>
+        <li>Curl</li>
         <li>Postman API</li>
         <li>MySQL</li>
+        <li>Ubuntu</li>
         <li>MS Office</li>
         <li>Windows</li>
-        <li>Ubuntu</li>
       </ul>
   </td>
   </tr>
