@@ -35,8 +35,8 @@ _______________________________
     <td><h2>Projects</h2>
       <ul>
         <li><b>September 2022 - January 2023</b>Internal project, using NodeJS+express+Angular+Typescript • ArtCodeVision</li>
-        <li><b>August 2022 - September 2023</b>Frontend at |![Sahara Cloud Project](https://saharacloud.io)| • ArtCodeVision</li>
-        <li><b>May 2022 - August 2022</b>FullStack at |![TYP project](https://trainyourpulse.com)| • ArtCodeVision</li>
+        <li><b>August 2022 - September 2023</b>Frontend at [Sahara Cloud Project](https://saharacloud.io) • ArtCodeVision</li>
+        <li><b>May 2022 - August 2022</b>FullStack at [TYP project](https://trainyourpulse.com) • ArtCodeVision</li>
       </ul></td>
   </tr>
   <tr>
