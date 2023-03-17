@@ -1,5 +1,5 @@
 # VIACHESLAV MYKHALCHENKO
-## Junior Full-Stack Developer, Trainee Java Developer, Trainee Kotlin Developer
+## Junior Full-Stack Developer (Angular/React)
 
 _______________________________
 
