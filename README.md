@@ -1,5 +1,5 @@
 # VIACHESLAV MYKHALCHENKO
-## Junior Full-Stack Developer (Angular/React)
+## Junior Full-Stack Developer (Express, Angular/React)
 
 _______________________________
 
