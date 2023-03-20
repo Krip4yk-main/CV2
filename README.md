@@ -60,15 +60,6 @@ _______________________________
         <li>ENGLISH – INTERMEDIATE</li>
       </ul></td>
   </tr>
-  <tr>
-    <td><h2>HOBBIES</h2>
-      <ul>
-        <li>Reading Light novels (Ranobes) and mangas</li>
-        <li>Playing tabletop games</li>
-        <li>Playing roleplay games like DnD</li>
-        <li>Playing computer games </li>
-      </ul></td>
-  </tr>
   </tbody>
   </table>
 </td>
