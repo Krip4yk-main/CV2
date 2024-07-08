@@ -20,7 +20,7 @@ _______________________________
                                          <br>secondary position as System Administrator.
                                          <br>As System Administrator I worked configuring, fixing for next environments:
                                          <br>Windows, Linux (Ubuntu), IDE (JetBrains IDEA), Servers, GitHub, GitLab, Microsoft Office, 
-                                         <br>basic security, encription, TV, Internet</p></td>
+                                         <br>Basic Security, encription, TV, Internet</p></td>
   </tr>
   <tr>
     <td><h2>EXPERIENCE</h2>
