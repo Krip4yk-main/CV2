@@ -20,7 +20,7 @@ _______________________________
                                          <br>secondary position as System Administrator.
                                          <br>As System Administrator I worked configuring, fixing for next environments:
                                          <br>Windows, Linux (Ubuntu), IDE (JetBrains IDEA), Servers, GitHub, GitLab, Microsoft Office, 
-                                         <br>basic security, encription, TV, Internet, Basic Security</p></td>
+                                         <br>basic security, encription, TV, Internet</p></td>
   </tr>
   <tr>
     <td><h2>EXPERIENCE</h2>
@@ -32,6 +32,7 @@ _______________________________
         <li><b>August 2022 - January 2023</b><br>System Administrator • ArtCodeVision</li>
         <li><b>May 2022 - January 2023</b><br>Junior Fullstack developer • ArtCodeVision</li>
         <li><b>December 2021 – April 2022</b><br>Trainee Kotlin Developer • TICKETS.UA LLC</li>
+        <li><b>October 2021 – December 2021</b><br>Montage and Configuring Master • Volia</li>
         <li><b>August 2021 – October 2021</b><br>JavaClub • SoftServe IT Academy</li>
         <li><b>November 2018 – January 2019</b><br>IT Teacher • STEP IT Academy</li>
       </ul></td>
