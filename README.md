@@ -1,9 +1,9 @@
 # VIACHESLAV MYKHALCHENKO
-## System Administrator
+## Системний Адміністратор
 
 _______________________________
 
-|Phone Number|Email|LinkedIn|
+|Телефон|Пошта|LinkedIn|
 |:---:|:---:|:---:|
 |[+380681377914](tel:+380681377914)|[krip4yk.main@gmail.com](mailto:krip4yk.main@gmail.com)|[Link](https://www.linkedin.com/in/viacheslav-mykhalchenko-752042171/)|
 
@@ -16,38 +16,39 @@ _______________________________
   <table>
   <tbody>
   <tr>
-    <td><h2>SUMMARY OF QUALIFICATIONS</h2><p>Software Engineer with 3y of experience. On last positions as Software Engineer had also
-                                         <br>secondary position as System Administrator.
-                                         <br>As System Administrator I worked configuring, fixing for next environments:
+    <td><h2>ЗАГАЛЬНО</h2><p>Розробник програмного забезпечення з понад 3 роками досвіду. На останніх посадах,
+                                         <br>також, як другодярна роль, Системний Адміністратор. Як Системний Адміністратор,
+                                         <br>я працював налаштовуючи і виправляючи помилки в таких оточеннях як:
                                          <br>Windows, Linux (Ubuntu), IDE (JetBrains IDEA), Servers, GitHub, GitLab, Microsoft Office, 
-                                         <br>basic security, encription, TV, Internet, Basic Security</p></td>
+                                         <br>Базова Безпека, шифрування, Телебачення, Інтернет.</p></td>
   </tr>
   <tr>
-    <td><h2>EXPERIENCE</h2>
+    <td><h2>ДОСВІД</h2>
       <ul>
-        <li><b>Part-Time overall</b><br>System Administrator • Freelance</li>
-        <li><b>January 2024 - novadays</b><br>Seniour Fullstack developer • Freelance</li>
-        <li><b>June 2023 - January 2024</b><br>System Administrator • Appexoft</li>
-        <li><b>June 2023 - January 2024</b><br>Middle Fullstack developer • Appexoft</li>
-        <li><b>August 2022 - January 2023</b><br>System Administrator • ArtCodeVision</li>
-        <li><b>May 2022 - January 2023</b><br>Junior Fullstack developer • ArtCodeVision</li>
-        <li><b>December 2021 – April 2022</b><br>Trainee Kotlin Developer • TICKETS.UA LLC</li>
-        <li><b>August 2021 – October 2021</b><br>JavaClub • SoftServe IT Academy</li>
-        <li><b>November 2018 – January 2019</b><br>IT Teacher • STEP IT Academy</li>
+        <li><b>Часткова зайнятість загально</b><br>Системний Адміністратор • Фріланс</li>
+        <li><b>Січень 2024 - novadays</b><br>Seniour Fullstack developer • Фріланс</li>
+        <li><b>Червень 2023 - Січень 2024</b><br>Системний Адміністратор • Appexoft</li>
+        <li><b>Червень 2023 - Січень 2024</b><br>Middle Fullstack developer • Appexoft</li>
+        <li><b>Серпень 2022 - Січень 2023</b><br>Системний Адміністратор • ArtCodeVision</li>
+        <li><b>Травень 2022 - Січень 2023</b><br>Junior Fullstack developer • ArtCodeVision</li>
+        <li><b>Грудень 2021 – April 2022</b><br>Trainee Kotlin Developer • TICKETS.UA LLC</li>
+        <li><b>Жовтень 2021 – Грудень 2021</b><br>Майстер монтажних робіт • Воля</li>
+        <li><b>Серпень 2021 – Жовтень 2021</b><br>JavaClub • SoftServe IT Academy</li>
+        <li><b>Листопад 2018 – Січень 2019</b><br>IT Викладач • STEP IT Academy</li>
       </ul></td>
   </tr>
   <tr>
-    <td><h2>EDUCATION</h2>
+    <td><h2>ОСВІТА</h2>
       <ul>
-        <li><b>Uzhhorod National University, September 2015 – June 2019</b><br>Bachelor's degree • Computer Science</li>
-        <li><b>Ivan Franko National University of Lviv, September 2019 – December 2020</b><br>Master's degree • Computer Science</li>
+        <li><b>Ужгородський Національний Університет, Вересень 2015 – Червень 2019</b><br>Бакалавр • Комп'ютерні Науки</li>
+        <li><b>Національний Університет ім. Івана Франка, Вересень 2019 – Грудень 2020</b><br>Магістр • Комп'ютерні Науки</li>
       </ul></td>
   </tr>
   <tr>
-    <td><h2>LANGUAGES</h2>
+    <td><h2>МОВИ</h2>
       <ul>
-        <li>UKRAINIAN – NATIVE</li>
-        <li>ENGLISH – UPPER-INTERMEDIATE</li>
+        <li>УКРАЇНСЬКА – ВІЛЬНЕ</li>
+        <li>АНГЛІЙСЬКА – UPPER-INTERMEDIATE (B2)</li>
       </ul></td>
   </tr>
   </tbody>
@@ -57,12 +58,12 @@ _______________________________
   <table>
   <thead>
   <tr>
-    <th><h1>SKILLS</h1></th>
+    <th><h1>НАВИЧКИ</h1></th>
   </tr>
   </thead>
   <tbody>
   <tr>
-    <td><h2>Technologies</h2>
+    <td><h2>Технології</h2>
       <ul>
         <li>Node.js</li>
         <li>JavaScript/TypeScript</li>
@@ -75,11 +76,11 @@ _______________________________
         <li>MongoDB</li>
         <li>Java</li>
         <li>Kotlin</li>
-        <li>Basic Security</li>
-        <li>Windows config/maint</li>
-        <li>Linux config/maint</li>
-        <li>TV config/maint</li>
-        <li>Internet config/maint</li>
+        <li>Базова Безпека</li>
+        <li>Windows<br><i>налаштування<br> і підтримка</i></li>
+        <li>Linux<br><i>налаштування<br> і підтримка</i></li>
+        <li>Телебачення<br><i>налаштування<br> і підтримка</i></li>
+        <li>Інтернет<br><i>налаштування<br> і підтримка</i></li>
       </ul>
   </td>
   </tr>
